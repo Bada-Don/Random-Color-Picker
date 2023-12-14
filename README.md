@@ -1,5 +1,4 @@
 # Random-Color-Picker
-# Random Color Picker
 
 ## Overview
 
@@ -9,7 +8,7 @@ Welcome to the Random Color Picker project! This simple web application generate
 
 - **Generate Random Colors**: Click a button to get a new, random color.
 - **Color Information**: View the HEX value of each generated color.
-- **Copy to Clipboard**: Easily copy the color values to use in your projects.
+- **Copy to Clipboard**: Easily copy the color values for your projects.
 - **Visual Appeal**: Enjoy a visually pleasing interface with vibrant colors.
 
 ## Technologies Used
